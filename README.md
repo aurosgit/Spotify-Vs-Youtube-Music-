@@ -1,2 +1,3 @@
-# Spotify-Vs-Youtube-Music-
-PostgreSQL
+# Spotify Vs Youtube Music Analysis Using SQL
+
+
