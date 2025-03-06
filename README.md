@@ -1,5 +1,5 @@
 # Spotify Vs Youtube Music Analysis Using SQL
-[](https://github.com/aurosgit/Spotify-Vs-Youtube-Music-/blob/main/Spout%20Logo.png)
+![](https://github.com/aurosgit/Spotify-Vs-Youtube-Music-/blob/main/Spout%20Logo.png)
 
 #Objective
 This project analyzes a combined dataset of Spotify and YouTube music data to uncover insights into song performance, artist popularity, and platform-specific trends. By using SQL queries, we explore:
